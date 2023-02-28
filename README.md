@@ -1,2 +1,3 @@
-# Celestial-Bodies-Database
-This is the first out of five freeCodeCamp Relational Database projects.
+# freeCodeCamp-Relational-Database-Projects
+These are my solutions to freeCodeCamp Relational Database projects.
+Feel free to look around.
