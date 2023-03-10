@@ -1,2 +1,2 @@
 # freeCodeCamp-Relational-Database-Projects
-These are my solutions to freeCodeCamp Relational Database projects.
+This is how I approached the freeCodeCamp Relational Database projects.
